@@ -1,0 +1,14 @@
+name: friendlies
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas
+  - jupyter
+  - pip
+  - pip:
+      - whatstk
+      - torch
+      - transformers
+      - datasets
+      - accelerate

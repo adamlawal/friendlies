@@ -1,0 +1,16 @@
+# Chat exports and derived data (private)
+data/
+
+# Model checkpoints
+models/*
+!models/.gitkeep
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Local Cursor rules / agent context
+.cursor/
