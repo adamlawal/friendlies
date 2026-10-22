@@ -1,6 +1,6 @@
 # Friendlies
 
-My friends talk a lot and I thought it'd be cool to learn about causal language modeling by building a small CLM that talks just like them. I trained the model from scratch on a cleaned WhatsApp group chat to speak like my colleagues.
+My friends talk a lot and I thought it'd be cool to learn about causal language modeling by building a small CLM that talks just like them. I trained the model from scratch on a cleaned WhatsApp group chat to speak in annoying 😂
 
 ## System design
 
